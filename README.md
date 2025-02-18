@@ -3,3 +3,6 @@ Começando minha graduação em Ciência da Computação, me preparando para uma
 Conhecendo novas tecnologias e provavelmente seguindo para o caminho de Desenvolvedor Back End
 Vou utilizar este espaço para praticar e aprender, além de divulgar meus progressos.
 Vamos em frente!
+
+Voltando aos estudos!
+Acrescentando esta pequena alteração para me certificar que estou usando o Git corretamente.
