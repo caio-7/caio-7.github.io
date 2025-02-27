@@ -59,6 +59,7 @@ html,body{
     text-decoration: none;
     font-weight: bold;
     margin-right: 25px;
+    padding: 4px;
 }
 
 section.sobre{
@@ -87,4 +88,16 @@ section.sobre{
 .texto-centro{
     margin-top: 60px;
 
+}
+
+.menu a:hover {
+    padding: 4px;
+    background-color: lightblue;
+    border-radius: 10%;
+
+    transition: background-color 1s;
+}
+
+.objetivos {
+    width: 700px;
 }
